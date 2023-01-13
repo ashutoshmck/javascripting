@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ashutoshmck/javascripting/issues"
   },
-  "homepage": "https://github.com/ashutoshmck/javascripting#readme"
+  "homepage": "https://github.com/ashutoshmck/javascripting#readme",
+  "dependencies": {
+    "javascripting": "^2.7.4"
+  }
 }
